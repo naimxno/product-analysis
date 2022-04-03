@@ -1,0 +1,10 @@
+.home {
+  display: flex;
+  align-items: center;
+  margin: 50px 200px;
+}
+
+.home div img {
+  width: 600px;
+  margin-left: 50px;
+}
