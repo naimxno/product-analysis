@@ -1,22 +1,22 @@
 # Car Reviews
 
-Live Site  [Car Reviews](http://localhost:3000)
+Live Site  [Car Reviews](https://lambocarreviews.netlify.app/home)
 
 ## Car Reviews site information : -
 
 
 ### `Home`
-    Information and reviews
+Information and reviews
 ### `Reviews`
-  Showing reviews of people.
+Showing reviews of people.
 ### `Dashboard`
-    Charts have been made here.Recharts have been used.
+Charts have been made here.Recharts have been used.
 ### `Blogs`
-  The question has been answered on blogs page. 
+The question has been answered on blogs page. 
 
 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
