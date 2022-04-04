@@ -5,13 +5,14 @@ Live Site  [Car Reviews](http://localhost:3000)
 ## Car Reviews site information : -
 
 
-### `npm start`
-    -naim
-### `npm test`
-
-### `npm run build`
-
-### `npm run eject`
+### `Home`
+    Information and reviews
+### `Reviews`
+  Showing reviews of people.
+### `Dashboard`
+    Charts have been made here.Recharts have been used.
+### `Blogs`
+  The question has been answered on blogs page. 
 
 
 
