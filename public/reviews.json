@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Yonis Qader",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "The most beautiful sports car design in the world is made for characters and businessmen just for their expensive price. I like Lamborghini designs a lot.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Wayne M Chezick",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "Lamborghini is one of the most stylish sporty luxury cars because I had owned this beast for a day. very good performance and very impressive.",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Daanniy Morales",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "This car is an outstanding one and it's can't be told. This car is awesome and its the engine is outstanding.",
+    "rating": 5.0
+  },
+  {
+    "id": 4,
+    "name": "Julio Tlalolin",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "It's good but not for Indian roads besides you can get Rolls Royce Cullinan around this price. In my opinion, this car is a waste of money.",
+    "rating": 3.5
+  },
+  {
+    "id": 5,
+    "name": "Ivonn Bom",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "What a nice car. Considering the price, the car is mid expensive. Very beautiful, stylish, comfortable, and performance is very good. The car is a perfect sports car.",
+    "rating": 3.0
+  },
+  {
+    "id": 6,
+    "name": "Nauj Linares",
+    "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "Review": "Amazing car, excellent performance. It's just like a wind too fast I loved it. Now its my dream to own this car.",
+    "rating": 4.0
+  }
+]

@@ -1,0 +1,19 @@
+.review-container {
+  margin: auto;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20PX;
+  background-color: rgb(231, 238, 236);
+}
+
+.review-info img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.review-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
